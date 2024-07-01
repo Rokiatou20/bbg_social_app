@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206814457468",
+    "project_id": "bk-social-app",
+    "storage_bucket": "bk-social-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206814457468:android:a2eafee25356a93c4923f9",
+        "android_client_info": {
+          "package_name": "ci.rokiatou.ouattara.test_drive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxCIECwBoA5GnQ0XOclQWjoa0sTC5xvKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
